@@ -1,3 +1,4 @@
-# Olá, iniciando Git e GitHub durante aula em vídeo.
+# Olá!
+Iniciando Git e GitHub. 
 
- primeiros projetos em Git e GitHub
+Primeiros projetos com Git e GitHub.
