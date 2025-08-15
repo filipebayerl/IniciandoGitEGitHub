@@ -6,4 +6,5 @@ console.log(tamanho)
 // unshift: Adiciona um elemento no começo do array e devolve o novo tamanho do array
 tamanho = arr.unshift("Boromir")
 console.log(arr)
-console.log(tamanho)
+console.log(tamanho) 
+console.log("update")

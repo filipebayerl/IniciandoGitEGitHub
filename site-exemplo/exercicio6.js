@@ -20,4 +20,5 @@ if (isNaN(numero)) {
     alert("O número é zero.");
   }
 }
+
     
